@@ -1,0 +1,12 @@
+.card {
+    background-color: #ffffffa4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .task-name {
+    font-size: 20px;
+  }
+  
